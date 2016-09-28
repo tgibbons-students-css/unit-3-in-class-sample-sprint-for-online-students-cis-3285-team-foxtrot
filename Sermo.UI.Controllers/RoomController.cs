@@ -82,6 +82,7 @@ namespace Sermo.UI.Controllers
             }
 
             return result;
+            // Changes for Sprint 1 -- I want to send plain text messages to other room members. - Garrett Wolfram
         }
 
         private readonly IRoomViewModelReader reader;
